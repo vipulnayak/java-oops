@@ -1,4 +1,4 @@
-package Literal;
+
 public class Literal {
     public static void main(String args[]){
         int num1=0b101;

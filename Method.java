@@ -1,4 +1,4 @@
-package method;
+
 
 
 class Music {
