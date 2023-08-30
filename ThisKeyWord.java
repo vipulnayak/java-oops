@@ -1,6 +1,5 @@
 class Human
 {
-	
 	private int age;
 	private String name;
 	
@@ -15,7 +14,6 @@ class Human
 		obj1.age=age;
 		//this.age=age;
 	}
-	
 //	public void SetAge(int a)
 //	{
 //		age=a;

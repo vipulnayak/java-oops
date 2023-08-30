@@ -1,0 +1,10 @@
+1- camelcasing for class
+2-methods and variable in small characters
+3-constructors with first letter capital 
+4-constants with whole capital characters
+
+1-MyData
+2-maxvalue =0;
+  show()
+3-Human()
+4-PIE,BRAND
