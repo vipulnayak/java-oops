@@ -14,10 +14,7 @@ class A
 public class AnonymousObjects
 {
 	public static void main(String a[]) 
-	{
-		int marks;
-		marks=99;
-		
+	{		
 		new A();   //anonymous object
 		new A().show();
 		
